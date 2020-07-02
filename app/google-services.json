@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "636936677343",
+    "firebase_url": "https://startermvp.firebaseio.com",
+    "project_id": "startermvp",
+    "storage_bucket": "startermvp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636936677343:android:f37ead1b08038e77eac66a",
+        "android_client_info": {
+          "package_name": "br.com.jvictororiz.startermvp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636936677343-i7b5e0bdk3lpgiue0f9f92s4hvd64jr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4x8M2nMvdh-UQZAQ9f-2fkyTisFhqapE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636936677343-i7b5e0bdk3lpgiue0f9f92s4hvd64jr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
